@@ -1,0 +1,13 @@
+*.exe                     binary
+
+*.dll                     binary
+
+*.cmd                     text    eol=crlf
+
+*.txt                     text    eol=crlf
+
+*.nfo                     text    eol=crlf
+
+*.pl                      text    eol=crlf
+
+README.md                         eol=crlf
